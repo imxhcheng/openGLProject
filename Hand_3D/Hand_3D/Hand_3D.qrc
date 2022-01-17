@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Hand_3D"/>
+    <qresource prefix="/Shaders">
+        <file>shaders/axis.frag</file>
+        <file>shaders/axis.vert</file>
+        <file>shaders/cloud.frag</file>
+        <file>shaders/cloud.vert</file>
+        <file>shaders/pose.frag</file>
+        <file>shaders/pose.vert</file>
+        <file>shaders/scence.frag</file>
+        <file>shaders/scence.vert</file>
+        <file>shaders/shader.vert</file>
+        <file>shaders/shaders.frag</file>
+    </qresource>
+</RCC>
